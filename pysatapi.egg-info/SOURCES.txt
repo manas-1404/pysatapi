@@ -1,0 +1,8 @@
+README.md
+setup.py
+pysatapi/__init__.py
+pysatapi.egg-info/PKG-INFO
+pysatapi.egg-info/SOURCES.txt
+pysatapi.egg-info/dependency_links.txt
+pysatapi.egg-info/not-zip-safe
+pysatapi.egg-info/top_level.txt

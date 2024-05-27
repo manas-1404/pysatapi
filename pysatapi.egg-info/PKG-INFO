@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pysatapi
+Version: 0.1.0
+Summary: Satellite data imagery acquisition from several popular online APIs. Updated essential module features of GoogleMaps.py from Python2 to Python3 by Manas Srinivas Gowda. Original Work by Adrian Albert (https://github.com/adrianalbert/satapi)
+Home-page: https://github.com/manas-1404/satapi
+Author: Manas Srinivas Gowda
+Author-email: manas.gowda04@gmail.com
+License: MIT
